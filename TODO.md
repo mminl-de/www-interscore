@@ -1,12 +1,8 @@
 # layout
-- header and corny catchphrase
-- big (not fullscreen) image of screenshot
-- about
-- requirements
-- demontrations
-- contact
+- über
+- features
+- voraussetzungen
 
 # TODO
 - change name of the service
 - logo
-- remove scrollbar
